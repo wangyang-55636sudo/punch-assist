@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打卡助手</string>
+    <string name="service_name">打卡助手自动点击</string>
+    <string name="acc_desc">用于在八局通界面内自动点击打卡按钮。仅在本机前台生效。</string>
+</resources>
